@@ -16,7 +16,6 @@ class Me:
         print("me")
         return Your_3()
 
-# Line 4: Freaking come here
 class Give:
     def Give(self):
         print("Give")
